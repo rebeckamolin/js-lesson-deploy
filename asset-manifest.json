@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/rebeckamolin/js-lesson-deploy/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/rebeckamolin/js-lesson-deploy/static/js/main.8f9ee403.chunk.js",
+    "main.js.map": "/rebeckamolin/js-lesson-deploy/static/js/main.8f9ee403.chunk.js.map",
+    "runtime-main.js": "/rebeckamolin/js-lesson-deploy/static/js/runtime-main.62180202.js",
+    "runtime-main.js.map": "/rebeckamolin/js-lesson-deploy/static/js/runtime-main.62180202.js.map",
+    "static/js/2.af32eef5.chunk.js": "/rebeckamolin/js-lesson-deploy/static/js/2.af32eef5.chunk.js",
+    "static/js/2.af32eef5.chunk.js.map": "/rebeckamolin/js-lesson-deploy/static/js/2.af32eef5.chunk.js.map",
+    "index.html": "/rebeckamolin/js-lesson-deploy/index.html",
+    "precache-manifest.b4bdd9adc1c718187a9c801b65088605.js": "/rebeckamolin/js-lesson-deploy/precache-manifest.b4bdd9adc1c718187a9c801b65088605.js",
+    "service-worker.js": "/rebeckamolin/js-lesson-deploy/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/rebeckamolin/js-lesson-deploy/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.af32eef5.chunk.js.LICENSE.txt": "/rebeckamolin/js-lesson-deploy/static/js/2.af32eef5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.62180202.js",
+    "static/js/2.af32eef5.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.8f9ee403.chunk.js"
+  ]
+}
