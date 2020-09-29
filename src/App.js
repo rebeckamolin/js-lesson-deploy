@@ -1,15 +1,33 @@
 import React from "react";
-import { Route, Switch } from "react-router-dom";
-import AboutMe from "./components/AboutMe";
+import { Switch, Route, Link } from "react-router-dom";
 
 function App() {
   return (
     <div>
-      <Switch>
-        <Route>
-          <AboutMe />
-        </Route>
-      </Switch>
+      <h1>Hej, världen!</h1>
+      <ul>
+        <li>
+          <Link to="/">Home</Link>
+        </li>
+        <li>
+          <Link to="/contact">Contact</Link>
+        </li>
+        <li>
+          <Link to="/chat">Chat</Link>
+        </li>
+        <li>
+          <Link to="/about">About</Link>
+        </li>
+      </ul>
+      <Route path="/contact">
+        <p>Contact</p>
+      </Route>
+      <Route path="/chat">
+        <p>Chat</p>
+      </Route>
+      <Route path="/about">
+        <p>About</p>
+      </Route>
     </div>
   );
 }
