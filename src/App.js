@@ -1,9 +1,15 @@
 import React from "react";
+import { Route, Switch } from "react-router-dom";
+import AboutMe from "./components/AboutMe";
 
 function App() {
   return (
     <div>
-      <h1>Hej</h1>
+      <Switch>
+        <Route>
+          <AboutMe />
+        </Route>
+      </Switch>
     </div>
   );
 }
